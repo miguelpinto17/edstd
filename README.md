@@ -1,4 +1,4 @@
-# Data Analysis Project - PL3G5
+# Correlation between mass shootings and education level in the United States
 
 This project is the result of a final academic assignment focused on data analysis using multiple sources and layered transformation stages. We implemented a layered data architecture (bronze, silver, gold) to process, clean, and analyze datasets related to relevant social themes, particularly within New York State and the United States.
 
